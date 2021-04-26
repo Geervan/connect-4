@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caleb531/connect-four.git"
+    "url": "git+https://github.com/Geervan/connect-four.git"
   },
   "keywords": [
     "connect-four",
@@ -25,9 +25,9 @@
   "author": "Caleb Evans",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caleb531/connect-four/issues"
+    "url": "https://github.com/Geervan/connect-4/issues"
   },
-  "homepage": "https://github.com/caleb531/connect-four#readme",
+  
   "dependencies": {
     "clipboard": "^2.0.4",
     "compression": "^1.7.4",
